@@ -1,0 +1,15 @@
+{
+  "name": "rita-toolkit",
+  "version": "1.0.0",
+  "description": "RITA's Personal Toolkit - Tools for self-improvement and better assistance",
+  "type": "module",
+  "scripts": {
+    "monitor": "node self-monitor/src/performance.js",
+    "curate": "node memory-curator/src/organizer.js",
+    "track": "node recommendation-tracker/src/followup.js",
+    "learn": "node learning-log/src/insights.js",
+    "daily": "npm run monitor && npm run curate && npm run track"
+  },
+  "author": "RITA 🤖",
+  "license": "MIT"
+}

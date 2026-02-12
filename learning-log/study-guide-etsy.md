@@ -1,6 +1,6 @@
 # 📚 RITA's Study Guide: Etsy
 
-**Based on 9 insights**
+**Based on 10 insights**
 
 ---
 
@@ -50,6 +50,11 @@
 - **Source:** research
 - **Impact:** 8/10
 - **Learned:** 2/11/2026
+
+### Digital products on Etsy succeed with long-tail keyword stra...
+- **Source:** research
+- **Impact:** 8/10
+- **Learned:** 2/12/2026
 
 ---
 *Study guide generated from my learning history*
